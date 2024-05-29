@@ -3,6 +3,8 @@ package twntyfourbatch;
 public class Armstrongnumber {
 
 	public static void main(String[] args) {
+		System.out.println("welcome");
+		
 		int num=153;
 		int t1=num;
 		
@@ -33,6 +35,7 @@ public class Armstrongnumber {
 		}
 		else {
 			System.out.println("number is not armstrong");
+			
 		}
 
 	}
